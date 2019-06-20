@@ -5,3 +5,54 @@ body{
 .a{
     font-family: 'Bree Serif', serif;
 }
+.quem_somos{
+    background-color: #F5FFFA;
+    margin-top: 100px;
+}
+h1{
+    padding-top: 50px;
+
+    color: white;
+    text-align: center; 
+    font-family: 'Bree Serif', serif;
+}
+p{
+    padding-top: 50px;
+    font-size: 25px;
+    color: white;
+    text-align: center; 
+    font-family: 'Bree Serif', serif;
+}
+#qs{
+    box-shadow: 5px 5px 0 white;
+   -webkit-box-shadow: 5px 5px 0 white;
+   -moz-box-shadow: 5px 5px 0 white;
+
+}
+#footer {
+    background-color: black;
+}
+#vazia{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+#fp{
+    padding-top: 2px;
+    font-size: 25px;
+    color: white;
+    text-align: right; 
+    font-family: 'Bree Serif', serif;
+}
+#fp2{
+    padding-top: 2px;
+    font-size: 25px;
+    color: white;
+    text-align: left; 
+    font-family: 'Bree Serif', serif;
+}
+#sp{
+    font-size: 25px;
+    color: white;
+    text-align: center; 
+    font-family: 'Bree Serif', serif;
+}
