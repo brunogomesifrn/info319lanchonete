@@ -56,3 +56,17 @@ p{
     text-align: center; 
     font-family: 'Bree Serif', serif;
 }
+h2{
+    padding-top: 40px;
+
+    color: white;
+    text-align: center; 
+    font-family: 'Bree Serif', serif;
+}
+a{
+    padding-top: 2px;
+    font-size: 25px;
+    color: white;
+    text-align: center; 
+    font-family: 'Bree Serif', serif;
+}
